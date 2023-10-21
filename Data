@@ -1,3 +1,0 @@
-xmlns:th="http://www.thymeleaf.org"
-
-th:href="@{/css/<name>.css}"
